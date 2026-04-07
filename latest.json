@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "v1.0 Core Engine is live with SEO Module and 4K Export!",
+  "pub_date": "2026-04-06T12:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVnpkR1FRZWlaVFdhbnEva1NncVVxYStwQXhOTDZpMDJabWxtU2JpUVA4QmRSOS9jdHgxQko0bjh5T0tGZVRuRFlMejV4cEFCRlFYZkt0UnBXRkNlZElpZDR5VE1zN1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTEyMTE3CWZpbGU6Q3JlYXRpdk9TIFN0dWRpby5hcHAudGFyLmd6CmpXN3Q2MUQzNTdreCsrN29ZYm9xSFJOMzMxSVp3bG0wdzdWUHg3VVRkZzBWMjJZZE11SmMvUFZIL090cTlpSTlWWWJ2SEI5R2dpWThPTGNrZnNNV0FRPT0K",
+      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.1.0/CreativOS.Studio.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVnpkR1FRZWlaVFdhbnEva1NncVVxYStwQXhOTDZpMDJabWxtU2JpUVA4QmRSOS9jdHgxQko0bjh5T0tGZVRuRFlMejV4cEFCRlFYZkt0UnBXRkNlZElpZDR5VE1zN1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTEyMTE3CWZpbGU6Q3JlYXRpdk9TIFN0dWRpby5hcHAudGFyLmd6CmpXN3Q2MUQzNTdreCsrN29ZYm9xSFJOMzMxSVp3bG0wdzdWUHg3VVRkZzBWMjJZZE11SmMvUFZIL090cTlpSTlWWWJ2SEI5R2dpWThPTGNrZnNNV0FRPT0K",
+      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.1.0/CreativOS.Studio.app.tar.gz"
+    }
+  }
+}
