@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU2NEemg4cHc4L0VRZVo2N3BpQXcxSFJOckdXdTZyOUc4TFpPN205LzJTd3VpZUVHWFExbTl6S0NqZE40SGY2ZGFjZisxU3NSRWdzVVVid1NhMkp4NUVLZnVwNDk1UVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTM2Mjk4CWZpbGU6Q3JlYXRpdk9TIFN0dWRpby5hcHAudGFyLmd6CjV4VFZySkFVZVM4Mm1iSUxvazBJSWVNZjlyLzMvTU5CRmc1TG5tYnQvVGQ2a3hyYmtDL3N6L1NlcVh4KzJJNXl3NzNNU0ZWSlZ5YU42ek03VWlQbkJRPT0K",
-      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.1.0/CreativOS%20Studio.app.tar.gz"
+      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.1.0/CreativOS.Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU2NEemg4cHc4L0VRZVo2N3BpQXcxSFJOckdXdTZyOUc4TFpPN205LzJTd3VpZUVHWFExbTl6S0NqZE40SGY2ZGFjZisxU3NSRWdzVVVid1NhMkp4NUVLZnVwNDk1UVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTM2Mjk4CWZpbGU6Q3JlYXRpdk9TIFN0dWRpby5hcHAudGFyLmd6CjV4VFZySkFVZVM4Mm1iSUxvazBJSWVNZjlyLzMvTU5CRmc1TG5tYnQvVGQ2a3hyYmtDL3N6L1NlcVh4KzJJNXl3NzNNU0ZWSlZ5YU42ek03VWlQbkJRPT0K",
-      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.1.0/CreativOS%20Studio.app.tar.gz"
+      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.1.0/CreativOS.Studio.app.tar.gz"
     }
   }
 }
