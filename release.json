@@ -1,14 +1,14 @@
 {
-  "version": "0.1.0",
-  "notes": "v1.0 Production Logic — Zero-Trust Signature Verified.",
-  "pub_date": "2026-04-07T08:00:00Z",
+  "version": "0.0.1",
+  "notes": "Initial release — CreativOS Studio v0.0.1",
+  "pub_date": "2026-04-07T07:42:48Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "pFIUNIB1pqDKTuLEQuQyGRxHmcKXVcdCx1oOuRf3BTBjpwHzQuyvJxfoNrl1kY0MlE30vEfe18oOSGhtjUCCNg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaWp4NUJZbHlPVHVkcm5YYzhhdCtFd1M0Zm5Gbll4Wms5Q05reWQ1dmZuK0tScDVWL2NzelBYTHNid25vbnE3dXAvZk5pd3lSazgyV2s4azZaUWNjQUVzWWJYbUwySkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTQ3NzY4CWZpbGU6Q3JlYXRpdk9TIFN0dWRpby5hcHAudGFyLmd6CnBGSVVOSWIxcHFES1R1TEVRdVF5R1J4SG1jS1hWY2RDeDFvT3VSZjNCVEJqcHdIelF1eXZKeGZvTnJsMWtZME1sRTMwdnZFZmUxOG9PU0dodGpVQ0NnPT0K",
       "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.0.1/CreativOS.Studio.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "pFIUNIB1pqDKTuLEQuQyGRxHmcKXVcdCx1oOuRf3BTBjpwHzQuyvJxfoNrl1kY0MlE30vEfe18oOSGhtjUCCNg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaWp4NUJZbHlPVHVkcm5YYzhhdCtFd1M0Zm5Gbll4Wms5Q05reWQ1dmZuK0tScDVWL2NzelBYTHNid25vbnE3dXAvZk5pd3lSazgyV2s4azZaUWNjQUVzWWJYbUwySkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTQ3NzY4CWZpbGU6Q3JlYXRpdk9TIFN0dWRpby5hcHAudGFyLmd6CnBGSVVOSWIxcHFES1R1TEVRdVF5R1J4SG1jS1hWY2RDeDFvT3VSZjNCVEJqcHdIelF1eXZKeGZvTnJsMWtZME1sRTMwdnZFZmUxOG9PU0dodGpVQ0NnPT0K",
       "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.0.1/CreativOS.Studio.app.tar.gz"
     }
   }
