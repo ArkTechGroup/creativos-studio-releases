@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "YnOaUkdZSriC6yS1d90Ex6QC90vzSMhL0HJv9UVZ0DqnJndKu56IJ4sYIlcsuj3VkjHS6Vqy4s6ocqMWs8QFAg==",
-      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.1.0/CreativOS%20Studio.app.tar.gz"
+      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.1.0/CreativOS.Studio.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "YnOaUkdZSriC6yS1d90Ex6QC90vzSMhL0HJv9UVZ0DqnJndKu56IJ4sYIlcsuj3VkjHS6Vqy4s6ocqMWs8QFAg==",
-      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.1.0/CreativOS%20Studio.app.tar.gz"
+      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v0.1.0/CreativOS.Studio.app.tar.gz"
     }
   }
 }
