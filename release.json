@@ -1,15 +1,15 @@
 {
-  "version": "v1.0.17",
-  "notes": "Update to v1.0.17",
-  "pub_date": "2026-05-13T20:28:39Z",
+  "version": "v1.0.18",
+  "notes": "Update to v1.0.18",
+  "pub_date": "2026-05-13T21:02:18Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2lSWFNVbFduODlZZ3FKZzVwbHZ1bzFsTEl5dE4vQ2VlUXYrWmF3dzRtVWliKzZGMThRTmMzSUlUbVR2UFNsMFB2UUl4dk9lUDd4UjlUTk9jM2pqUGovdUhHblYvMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NzA0MTA4CWZpbGU6Q3JlYXRpdk9TIFN0dWRpby5hcHAudGFyLmd6CllrYWhhYWRPTlZIU01zRkhWT084aVkwTitxT1k0eVQ2cGM0MlhVU0RiRFdhWjdsM2kwcXRxQ1pIWXlXYlVCOHB4c0tsOUxpVDQ4SjVkQVU2VlNla0RnPT0K",
-      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v1.0.17/CreativOS.Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2lSWFNVbFduODdKcFFERElDeExPZVhMWGtiZHNUUHlYNzZBQldSOG54RFUvV0o5VTdPbTNXUXJtWkV0NncxODNibnEzd044elIrQk5HdS93MG1RQkVKVEZMamh6TUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NzA2MTI5CWZpbGU6Q3JlYXRpdk9TIFN0dWRpby5hcHAudGFyLmd6Ck15ZStXY2N0KzF3ZHlRTlA1WE0rd1lzcWlwc1BubUw1Mm1uNFc5NWc4R1ZWWm0wT1RjclBxVjVkdVh4NGtmOVRhTDBBNmpBUW1FaTFMSEp0Z1ZvUEN3PT0K",
+      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v1.0.18/CreativOS.Studio.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2lSWFNVbFduODlZZ3FKZzVwbHZ1bzFsTEl5dE4vQ2VlUXYrWmF3dzRtVWliKzZGMThRTmMzSUlUbVR2UFNsMFB2UUl4dk9lUDd4UjlUTk9jM2pqUGovdUhHblYvMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NzA0MTA4CWZpbGU6Q3JlYXRpdk9TIFN0dWRpby5hcHAudGFyLmd6CllrYWhhYWRPTlZIU01zRkhWT084aVkwTitxT1k0eVQ2cGM0MlhVU0RiRFdhWjdsM2kwcXRxQ1pIWXlXYlVCOHB4c0tsOUxpVDQ4SjVkQVU2VlNla0RnPT0K",
-      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v1.0.17/CreativOS.Studio.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2lSWFNVbFduODdKcFFERElDeExPZVhMWGtiZHNUUHlYNzZBQldSOG54RFUvV0o5VTdPbTNXUXJtWkV0NncxODNibnEzd044elIrQk5HdS93MG1RQkVKVEZMamh6TUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NzA2MTI5CWZpbGU6Q3JlYXRpdk9TIFN0dWRpby5hcHAudGFyLmd6Ck15ZStXY2N0KzF3ZHlRTlA1WE0rd1lzcWlwc1BubUw1Mm1uNFc5NWc4R1ZWWm0wT1RjclBxVjVkdVh4NGtmOVRhTDBBNmpBUW1FaTFMSEp0Z1ZvUEN3PT0K",
+      "url": "https://github.com/ArkTechGroup/creativos-studio-releases/releases/download/v1.0.18/CreativOS.Studio.app.tar.gz"
     }
   }
 }
